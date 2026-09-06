@@ -1,5 +1,5 @@
 # Misión: Imposible — Código Escolar
 
-Primera temporada: los 33 nuevos de primer año, la búsqueda anual, 1ro 1ra, 1ro 3ra, Francisco, Ceci y el Código Escolar.
+Esta versión del proyecto contiene únicamente el pergamino antiguo de introducción.
 
-La web empieza con un pergamino antiguo. Al deslizar hacia arriba, las letras suben y el pergamino conduce al lector hacia el libro interactivo de la temporada.
+Al deslizar hacia arriba, las letras se desplazan y el pergamino avanza hasta cerrar la introducción de la temporada. El libro y sus capítulos quedaron fuera del proyecto por ahora.
